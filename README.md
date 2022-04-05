@@ -1,3 +1,6 @@
+# jsonEditor
+[一款chrome插件](https://github.com/sunzsh/chromeapp-jsonedit)的辅助工具，可以在chrome中快速打开json编辑器
+
 # curl2local
 可以将剪切板里的curl命令转换成请求本地127.0.0.1的命令
 
