@@ -1,3 +1,7 @@
+# MyWeekly.alfredworkflow
+一款记录周报的小插件
+> 为了方便大家使用，已经将node项目打包成可执行程序（使用时无需安装node环境），所以插件体积有点大（16.5M）
+
 # jsonEditor
 [一款chrome插件](https://github.com/sunzsh/chromeapp-jsonedit)的辅助工具，可以在chrome中快速打开json编辑器
 
