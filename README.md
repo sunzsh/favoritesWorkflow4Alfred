@@ -1,3 +1,13 @@
+# Markdown 贴图
+将 markdown 图片链接由上面转换到下面的形式，便于控制图片的大小和是否居中
+```
+![](链接)
+
+<div align="center">    
+    <img src="链接" width="300" />
+</div>
+```
+
 # GitClone.alfredworkflow
 自动读取剪切板的git仓库地址，并clone到指定的目录
 
