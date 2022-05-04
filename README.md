@@ -32,7 +32,7 @@
 我自己写的可以直接在iterm里面打开最前面xcode窗口的项目地址
 > 下载地址在上面
 
-# Visual Studio Code
+# Visual Studio Code plus
 学习了 [alexchantastic/alfred-open-with-vscode-workflow](https://github.com/alexchantastic/alfred-open-with-vscode-workflow) 的代码后，增加了对st和idea的支持
 
 # IP Address
