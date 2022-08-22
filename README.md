@@ -1,3 +1,9 @@
+# css.alfredworkflow
+把写好的css【内联样式】和【内部样式之间】互相转换
+* 内联->内部：复制内联样式（不包含style=""，仅复制里面的样式内容），alfred命令 `style`
+* 内部->内联：复制内部样式（不包含&lt;style>&lt;/style>，仅复制里面的样式内容），alfred命令 `inline`
+
+
 # frontiterm.alfredworkflow
 全局快捷键 `` command + ` `` 打开/激活 iterm
 
