@@ -1,4 +1,4 @@
-figma复制的svg处理.alfredworkflow
+# figma复制的svg处理.alfredworkflow
 可以直接讲figma复制的svg替换掉fill后保存到当前Finder打开的目录中，或仅存到剪切板
 
 # sequence.alfredworkflow
