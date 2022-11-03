@@ -1,3 +1,9 @@
+figma复制的svg处理.alfredworkflow
+可以直接讲figma复制的svg替换掉fill后保存到当前Finder打开的目录中，或仅存到剪切板
+
+# sequence.alfredworkflow
+生成序列，多用于列编辑
+
 # css.alfredworkflow
 把写好的css【内联样式】和【内部样式之间】互相转换
 * 内联->内部：复制内联样式（不包含style=""，仅复制里面的样式内容），alfred命令 `style`
