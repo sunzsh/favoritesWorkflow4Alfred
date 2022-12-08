@@ -1,3 +1,6 @@
+# srt.alfredworkflow
+个人用于解析提取剪映字幕的工具
+
 # figma复制的svg处理.alfredworkflow
 可以直接将figma（或其他地方）复制的svg内容替换掉fill后保存到当前Finder打开的目录中，或仅存到剪切板
 
