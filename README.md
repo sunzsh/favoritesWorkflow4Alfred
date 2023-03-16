@@ -75,7 +75,8 @@
 切换Mac音频 输入/输出源
 > 重度使用场景：使用AirPods在笔记本和手机之间切换的时候，偶尔不那么灵敏，用这个插件可以快速的强制切换
 
-<https://michael.thegrebs.com/2013/01/18/alfred2-audio-device/>
+* <https://michael.thegrebs.com/2013/01/18/alfred2-audio-device/>
+* <https://github.com/sunzsh/favoritesWorkflow4Alfred/raw/main/Audio%20Device.alfredworkflow> 备用
 
 # TerminalFinder
 在Finder和终端（包括iterm）之间来回切换的组件
