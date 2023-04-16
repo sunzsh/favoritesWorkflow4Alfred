@@ -1,3 +1,6 @@
+# resetZoom.alfredworkflow
+模拟鼠标操作关闭/打开双指缩放开关，从而在mac双指缩放失灵的时候达到快速修复的效果
+
 # srt.alfredworkflow
 个人用于解析提取剪映字幕的工具
 
