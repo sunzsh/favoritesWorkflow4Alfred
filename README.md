@@ -1,3 +1,6 @@
+# random_pic.alfredworkflow
+根据尺寸 `宽x高` or `宽*高` 随机生成图片到桌面
+
 # resetZoom.alfredworkflow
 模拟鼠标操作关闭/打开双指缩放开关，从而在mac双指缩放失灵的时候达到快速修复的效果
 
