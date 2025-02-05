@@ -1,3 +1,6 @@
+# 充电器功率.alfredworkflow
+展示当前充电器功率
+
 # random_pic.alfredworkflow
 根据尺寸 `宽x高` or `宽*高` 随机生成图片到桌面
 
