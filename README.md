@@ -1,3 +1,6 @@
+# AI变量.alfredworkflow
+调用大模型，根据一个中文名，提供多个场景下使用的变量/方法名建议
+
 # aistream.alfredworkflow
 将剪切板中的AI流式输出内容转换成最终的json
 
